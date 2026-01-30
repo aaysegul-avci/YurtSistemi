@@ -6,7 +6,7 @@ Bu proje, Yazılım Mühendisliği – Yazılım Mimarisi ve Tasarımı dersi ka
 
 Proje geliştirme sürecinde yer alan ekip üyeleri:
 	•	Aylin Öztürk – [AylinOztrk](https://github.com/AylinOztrk)
-	•	Ayşegül Avcı – [KLU5230505062](https://github.com/KLU5230505062)
+	•	Ayşegül Avcı – [aaysegul-avci](https://github.com/aaysegul-avci)
 
 🎯 Projenin Amacı ve Özellikleri
 
